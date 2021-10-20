@@ -1,0 +1,53 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "title": "Samsung S21",
+            "price": "2500",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZ7SCOXRo70pnpl2q2GSSE5V6MEt7SsVlgQ&usqp=CAU",
+            "quantity": "1"
+        },
+        {
+            "id": "1",
+            "title": "Samsung S21",
+            "price": "2500",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZ7SCOXRo70pnpl2q2GSSE5V6MEt7SsVlgQ&usqp=CAU",
+            "quantity": "1"
+        },
+        {
+            "id": "1",
+            "title": "Samsung S21",
+            "price": "2500",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZ7SCOXRo70pnpl2q2GSSE5V6MEt7SsVlgQ&usqp=CAU",
+            "quantity": "1"
+        },
+        {
+            "id": "1",
+            "title": "Samsung S21",
+            "price": "2500",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZ7SCOXRo70pnpl2q2GSSE5V6MEt7SsVlgQ&usqp=CAU",
+            "quantity": "1"
+        },
+        {
+            "id": "1",
+            "title": "Samsung S21",
+            "price": "2500",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZ7SCOXRo70pnpl2q2GSSE5V6MEt7SsVlgQ&usqp=CAU",
+            "quantity": "1"
+        },
+        {
+            "id": "1",
+            "title": "Samsung S21",
+            "price": "2500",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZ7SCOXRo70pnpl2q2GSSE5V6MEt7SsVlgQ&usqp=CAU",
+            "quantity": "1"
+        },
+        {
+            "id": "1",
+            "title": "Samsung S21",
+            "price": "2500",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZ7SCOXRo70pnpl2q2GSSE5V6MEt7SsVlgQ&usqp=CAU",
+            "quantity": "1"
+        }
+    ]
+}
